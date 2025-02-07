@@ -41,7 +41,7 @@ export class ChartParameters {
   yAxisDataSpacing = 0;
 
   // X-Axis Labels 
-  xLabelFontSize = 12
+  xLabelFontSize = 12;
   xLabelColor = this.Grey
   xLabelVerticalOffset = 15;
   xLabelRotationAngle = 45;
